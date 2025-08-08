@@ -46,7 +46,7 @@
 &kp ESC    &kp Q               &kp W           &kp F        &kp P             &kp B      &kp J          &kp L              &kp U                &kp Y            &kp SEMI             &kp BSPC
 &kp TAB    &hm LEFT_COMMAND A  &hm LEFT_ALT R  &hm LCTRL S  &hm LEFT_SHIFT T  &kp G      &kp M          &hm RIGHT_SHIFT N  &hm RIGHT_CONTROL E  &hm RIGHT_ALT I  &hm RIGHT_COMMAND O  &kp SQT
 &kp LSHFT  &kp Z               &kp X           &kp C        &kp D             &kp V      &kp K          &kp H              &kp COMMA            &kp DOT          &kp FSLH             &kp ESC
-                                               &mo 4        &lt 3 SPACE       &kp TAB    &lt 1 BACKSPACE  &lt 2 RET          &mo 2
+                                               &mo 4        &hm 3 SPACE       &kp TAB    &hm 1 BACKSPACE  &lt 2 RET          &mo 2
             >;
         };
 
