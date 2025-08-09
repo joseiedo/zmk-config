@@ -14,7 +14,7 @@
 
         Escape {
             bindings = <&kp ESCAPE>;
-            key-positions = <1 4>;
+            key-positions = <1 2>;
         };
     };
 
